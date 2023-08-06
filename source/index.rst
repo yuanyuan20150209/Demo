@@ -9,8 +9,9 @@ ADR Test!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-​   
-   test/markdown_format
+
+   test\markdown_format
+   markdown_format
 
 Indices and tables
 ==================
