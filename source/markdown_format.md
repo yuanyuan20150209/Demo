@@ -18,7 +18,9 @@ The title in markdown starts with a `#`. If you want to add multi-layer titles, 
 ## Font Variant 
 
 **Bold**: surrounded by `**`
+
 *Italic*: surrounded by `*`
+
 ==Highlight==: surrounded by `==`
 
 ## Escape character
@@ -26,6 +28,7 @@ The title in markdown starts with a `#`. If you want to add multi-layer titles, 
 If you don't want to render a character w/ special meaning in Markdown, add a `\` before the character:
 
 W/ an escape character: \*test\*
+
 WO an escape character: *test*
 
 ## Table
