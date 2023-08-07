@@ -36,8 +36,13 @@ WO an escape character: *test*
 Take the following table as an example:
 
 |heading 1|heading 2|heading 3|
-|--|--|--|
-|content 1|content 2|content 3|
+|--------|--------|-----------|
+|content 1|content 2|content 3 <br> content 6 <br> content 7|
+|content 4|   |content 5|
+
+- 1
+- 2
+- 3
 
 you need to enter as follows:
 
