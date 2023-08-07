@@ -68,7 +68,7 @@ To quote contents, start the line with a `>`
 
 > This includes URL & media files
 
-[Google](Google.com)
+[Google](https://www.Google.com)
 
 ![](source\test.png)
 
