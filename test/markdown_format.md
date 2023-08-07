@@ -70,6 +70,8 @@ To quote contents, start the line with a `>`
 
 [Google](Google.com)
 
+![](source\test.png)
+
 ```
 [the name of the item](the path you want to link)
 ```
