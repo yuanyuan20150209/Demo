@@ -10,7 +10,6 @@ ADR Test!
    :maxdepth: 1
    :caption: Contents:
 
-   test\markdown_format
    markdown_format
 
 Indices and tables
