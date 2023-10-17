@@ -14,10 +14,10 @@ release = '1.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['recommonmark']
+# extensions = ['recommonmark']
 
-# extensions = ["myst-parser"]
-# source_suffix = {'.rst': 'restructuredtext','.md': 'markdown',}
+extensions = ['myst-parser']
+source_suffix = {'.rst': 'restructuredtext','.md': 'markdown',}
 
 templates_path = ['_templates']
 exclude_patterns = []
