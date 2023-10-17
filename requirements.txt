@@ -27,4 +27,4 @@ sphinxcontrib-qthelp
 sphinxcontrib-serializinghtml
 urllib3
 sphinx_markdown_tables
-myst-parser
+myst_parser
