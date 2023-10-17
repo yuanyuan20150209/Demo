@@ -16,7 +16,7 @@ release = '1.0'
 
 # extensions = ['recommonmark']
 
-extensions = ['myst-parser']
+extensions = ['myst_parser']
 source_suffix = {'.rst': 'restructuredtext','.md': 'markdown',}
 
 templates_path = ['_templates']
