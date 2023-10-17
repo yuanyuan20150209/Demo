@@ -11,10 +11,3 @@ ADR Test!
    :caption: Contents:
 
    markdown_format
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
