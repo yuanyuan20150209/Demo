@@ -11,3 +11,4 @@ Demo!
    :caption: Contents:
 
    markdown_format
+   docslikecode
