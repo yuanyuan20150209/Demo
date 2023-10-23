@@ -21,8 +21,6 @@ The title in markdown starts with a `#`. If you want to add multi-layer titles, 
 
 *Italic*: surrounded by `*`
 
-==Highlight==: surrounded by `==`
-
 ## Escape character
 
 If you don't want to render a character w/ special meaning in Markdown, add a `\` before the character:
@@ -32,17 +30,6 @@ W/ an escape character: \*test\*
 WO an escape character: *test*
 
 ## Table
-
-Take the following table as an example:
-
-|heading 1|heading 2|heading 3|
-|--------|--------|-----------|
-|content 1|content 2|content 3 <br> content 6 <br> content 7|
-|content 4|   |content 5|
-
-- 1
-- 2
-- 3
 
 you need to enter as follows:
 
