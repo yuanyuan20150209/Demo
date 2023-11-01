@@ -8,7 +8,7 @@
 
 project = 'Technical Writing Demo'
 copyright = '2023, Adrian'
-author = 'Adrian'
+author = 'yuanyuan'
 release = '2.0'
 
 # -- General configuration ---------------------------------------------------
